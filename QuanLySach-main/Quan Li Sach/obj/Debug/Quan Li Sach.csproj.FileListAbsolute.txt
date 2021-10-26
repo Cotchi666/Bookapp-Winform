@@ -1,0 +1,11 @@
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\bin\Debug\Quan Li Sach.exe.config
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\bin\Debug\Quan Li Sach.exe
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\bin\Debug\Quan Li Sach.pdb
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan Li Sach.csprojAssemblyReference.cache
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan_Li_Sach.Form1.resources
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan_Li_Sach.Properties.Resources.resources
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan Li Sach.csproj.GenerateResource.cache
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan Li Sach.csproj.CoreCompileInputs.cache
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan Li Sach.exe
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan Li Sach.pdb
+D:\Visual - C#\Quan Li Sach\Quan Li Sach\obj\Debug\Quan_Li_Sach.Form2.resources
